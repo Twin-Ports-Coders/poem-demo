@@ -13,5 +13,9 @@ def make_poem(words):
 
 
 if __name__ == "__main__":
-    words = ["tree", "river", "dream", "song"]
+    raw = input("Enter words (comma-separated): ")
+    words = [w.strip() for w in raw.split(",")]
+    if not words:
+        print("No words provided, using defaults")
+        words = ["tree", "river", "dream", "clouds"]
     print(make_poem(words))
