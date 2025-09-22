@@ -2,10 +2,19 @@
 
 Welcome! 👋
 
-Kris Johnson, Natural Resources Research Institute (NRRI)
+Kris Johnson, Geospatial Developer 
+@ Natural Resources Research Institute (NRRI)
 
 **Goal:** Learn how to collaborate on code reviews with Pull Requests.  
 **Format:** Short intro → Live demo → Wrap-up
+
+---
+
+## 📋 Quick Survey
+
+1. Who knows what version control is?
+2. Who knows what Github is?
+3. Who uses version control/git/Github regularly?
 
 ---
 
@@ -35,7 +44,7 @@ https://i0.wp.com/digitalvarys.com/wp-content/uploads/2019/06/image-6.png?fit=64
 ## 🤝 Collaboration Workflow (Git)
 
 - Create a branch → make changes → open a Pull Request
-- Review happens on the PR
+- Review happens on the Pull Request (PR)
 - Merge → changes land in `main`
 
 ---
@@ -57,15 +66,7 @@ https://www.documentlocator.com/wp-content/uploads/2023/09/how-version-control-w
 
 ---
 
-## 📝 Demo Overview
-
-We’ll use a **tiny poem generator app** as our example.
-
-**Three PRs, each showcasing a different aspect of collaboration:**
-
-1. **PR 1:** Review basics (comments & suggestions)
-2. **PR 2:** Feedback loop (request changes, re-review)
-3. **PR 3:** Reviewer tools (draft PRs, labels, batch comments)
+## 📝 Demo Time!
 
 ---
 
